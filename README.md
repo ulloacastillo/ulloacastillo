@@ -1,3 +1,2 @@
-### Hola, mi nombre es Jorge Ulloa Castillo y soy estudiante de 5to año de Ingeniería Civil en Informática en UACh
+### Hola, mi nombre es Jorge Ulloa Castillo y soy Ingeniero Civil en Informática de la Universidad Austral de Chile
 
-### Mi CV puedes econtrarlo aqui: https://github.com/ulloacastillo/CV
